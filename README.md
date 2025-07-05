@@ -1,3 +1,29 @@
+<h1 align="center">Hi 👋, I'm Justo Fire</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=justo055&label=Profile%20views&color=0e75b6&style=flat" alt="justo055" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Waving Hand" width="80" />
+</p>
+
+- ⚡ Fun fact **I am Justo.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/justo055" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="https://github.com/justo055" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  </a>
+  <a href="https://twitter.com/justo055" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" />
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
@@ -77,3 +103,14 @@
 
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZsWUdsX0oXb1XQc/giphy.gif" alt="Coding animation" width="200" />
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=justo055&show_icons=true&locale=en&layout=compact" alt="justo055" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justo055&" alt="justo055" /></p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" alt="Let's code!" width="150" />
+</p>
